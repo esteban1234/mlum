@@ -41,7 +41,9 @@
  	<p class="subtitn">Contamos con un departamento creativo que le dara a tu Empresa o Negocio la imagen que requiere.</p>
  </div>
 
- <div class="section" style="padding: 5% 0%; background-color: #000; overflow: hidden;">
+ <div class="section" style="padding: 7% 0%; background-color: #000; overflow: hidden;">
+ 	<h1 class="titn2">Excelente Servicio y Atención</h1>
+ 	<p class="subtitn2">Nuestra prioridad es  superar las espectativas del cliente en cualquiera de nuestros Servicios y Productos como, Letras Metalicas, Anuncios Luminosos, Toldos e Impresion</p>
       <div class="container">
         <div class="row">
           <div class="col-md-4">
@@ -61,6 +63,62 @@
             	<i class="fa fa-wrench fa-5x" aria-hidden="true"></i>
             </div>
             <h2 class="text-center" style="color: #fff;">INSTALACION</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bannern2">
+    	<div class="fondon2">
+    		<div class="section" style="padding: 7% 0%; overflow: hidden;">
+ 	<h1 class="titn2">¿Porque Elegirnos?</h1>
+ 	<p class="subtitn2">Tenemos gran experiencia en el ramo y la metodologia que usamos en nuestros proyectos son dinamicos siempre con contacto con nuestros clientes.</p>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fa fa-heart fa-5x" aria-hidden="true"></i>
+            </div>
+            <h3 class="text-center" style="color: #fff;">AMAMOS LO QUE HACEMOS</h3>
+            <p class="text-center" style="color: #fff;">Nos entusiasma nuestros  proyectos tanto como si fueran para nosotros mismos</p>
+          </div>
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fa fa-cog fa-5x" aria-hidden="true"></i>
+            </div>
+            <h3 class="text-center" style="color: #fff;">CALIDAD EN FABRICACION</h3>
+            <p class="text-center" style="color: #fff;">Por lo anterior solo utlilizmos materiales de la mejor calidad, para asegurar larga duración.</p>
+          </div>
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+            </div>
+            <h3 class="text-center" style="color: #fff;">TIEMPO DE ENTREGA</h3>
+            <p class="text-center" style="color: #fff;">Anuncios siempre en los tiempos acordados, para que su negocio arranque en los tiempos pactados.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    	</div>
+    </div>
+
+
+    <div class="section" style="padding: 7% 0%; overflow: hidden;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="../img/mlum.png"
+            class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h1>MLUM</h1>
+            <h3 style="color: #7FC8C0;">SOLUCIONES CREATIVAS Y PUBLICITARIAS S.A. de C.V.</h3>
+            <p>Somos una empresa 100% mexicana con basta experiencia. Gracias a la confianza de nuestros clientes nos hemos posicionado como líderes en el mercado nacional. <br><br>
+
+			Para nosotros en MLUM es importante superar las expectativas y consolidar el compromiso y calidad. <br><br>
+
+			Conózca nuestros servicios, estamos seguros que tenemos el producto ideal para su marca.</p>
+			<a class="pull-right" href="servicios.php"><button type="button" class="btn btn-success btn-lg">SERVICIOS</button></a>
           </div>
         </div>
       </div>

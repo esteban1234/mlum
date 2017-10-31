@@ -184,6 +184,231 @@ footer p{
 .icono i{
   color: #fff;
 }
-/*-------------------servicios---------------*/
+.titn2{
+  color: #7FC8C0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  margin-top: 1%;
+}
+.subtitn2{
+  width: 65%;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  /*margin-top: 1%;*/
+  margin-bottom: 6%;
+}
 
+.bannern2{
+   height: 550px;
+    background: url('../img/bannern2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.fondon2{
+  background-color: rgba(0,0,0,.8);
+  overflow: hidden;
+  height: 550px;
+}
+/*-------------------servicios---------------*/
+.servicios{
+   height: 550px;
+    background: url('../img/banners.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.serv{
+  height: 199px;
+  width: 100%;
+    background: url('../img/caja.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv2{
+  height: 199px;
+  width: 100%;
+    background: url('../img/nube.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv3{
+  height: 199px;
+  width: 100%;
+    background: url('../img/aluminio.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv4{
+  height: 199px;
+  width: 100%;
+    background: url('../img/panel.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv5{
+  height: 199px;
+  width: 100%;
+    background: url('../img/totem.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv6{
+  height: 199px;
+  width: 100%;
+    background: url('../img/letras2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv7{
+  height: 199px;
+  width: 100%;
+    background: url('../img/neon.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.serv8{
+  height: 199px;
+  width: 100%;
+    background: url('../img/espectacular.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
 /*-----------------contacto-----------------*/
+.contacto{
+   height: 550px;
+    background: url('../img/contacto.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.text-bannerc{
+  text-align: center;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  margin-top: 1%;
+}
+ .header-title
+        {
+          text-align: center;
+          color:#7FC8C0;
+        }
+
+        #tip 
+        {
+            display:none;  
+        }
+
+        .fadeIn
+        {
+          animation-duration: 3s;
+        }
+
+        .form-control
+        {
+          border-radius:0px;
+          border:1px solid #EDEDED;
+        }
+
+        .form-control:focus
+        {
+          border:1px solid #00bfff;
+        }
+
+        .textarea-contact
+        {
+          resize:none; 
+        }
+
+        .btn-send
+        {
+          border-radius: 0px;
+          border:1px solid #00bfff;
+          background:#7FC8C0;
+          color:#fff; 
+        }
+
+        .btn-send:hover
+        {
+          border:1px solid #00bfff;
+          background:#fff;
+          color:#00bfff;
+          transition:background 0.5s;   
+        }
+
+        .second-portion
+        {
+          margin-top:50px; 
+        }
+
+            @import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css";
+    @import "http://fonts.googleapis.com/css?family=Roboto:400,500";
+
+    .box > .icon { text-align: center; position: relative; }
+    .box > .icon > .image { position: relative; z-index: 2; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #7FC8C0; vertical-align: middle; }
+    .box > .icon:hover > .image { background: #333; }
+    .box > .icon > .image > i { font-size: 36px !important; color: #fff !important; }
+    .box > .icon:hover > .image > i { color: white !important; }
+    .box > .icon > .info { margin-top: -24px; background: #7FC8C0; border: 1px solid #e0e0e0; padding: 15px 0 10px 0; min-height:163px;}
+    .box > .icon:hover > .info { background: rgba(0, 0, 0, 0.04); border-color: #e0e0e0; color: white; }
+    .box > .icon > .info > h3.title { font-family: "Robot",sans-serif !important; font-size: 16px; color: #222; font-weight: 700; }
+    .box > .icon > .info > p { font-family: "Robot",sans-serif !important; font-size: 13px; color: #666; line-height: 1.5em; margin: 20px;}
+    .box > .icon:hover > .info > h3.title, .box > .icon:hover > .info > p, .box > .icon:hover > .info > .more > a { color: #222; }
+    .box > .icon > .info > .more a { font-family: "Robot",sans-serif !important; font-size: 12px; color: #222; line-height: 12px; text-transform: uppercase; text-decoration: none; }
+    .box > .icon:hover > .info > .more > a { color: #fff; padding: 6px 8px; background-color: #63B76C; }
+    .box .space { height: 30px; }
+
+    @media only screen and (max-width: 768px)
+    {
+      .contact-form
+      {
+        margin-top:25px; 
+      }
+
+      .btn-send
+      {
+        width: 100%;
+        padding:10px; 
+      }
+
+      .second-portion
+      {
+        margin-top:25px; 
+      }
+    }
+  /* Conatct end */
