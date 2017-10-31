@@ -1,3 +1,3 @@
 <footer>
-<p >Derechos de autor 2017 © | MEVISA SERVICIOS TURISTICOS S.A. de C.V.</p>
+<p >Derechos de autor 2017 © | MLUM SOLUCIONES CREATIVAS Y PUBLICITARIAS S.A. de C.V.</p>
 </footer>

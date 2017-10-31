@@ -13,7 +13,6 @@
   	<link rel="stylesheet" href="../css/bootstrap.css">
   	<link rel="stylesheet" href="../css/iconos.min.css">
 	<link rel="stylesheet" href="../css/estilos.css">
-	<link rel="stylesheet" href="../css/set2.css">
 	<link rel="stylesheet" href="../css/responsivo.css">
 	<script src="../js/general.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
