@@ -1,0 +1,665 @@
+@media screen and (max-width: 480px){
+	/*************DISEÑO INDEX******************/
+
+	.index, .fondo, .banner2, .fondo2, .nosotros, .bannern2, .fondon2,
+	.servicios, .contacto{
+		height: 100%;
+	}
+
+	.contenpuntos{
+		display: none;
+	}
+
+	.logo{
+		width: 40%;
+		float: none !important;
+		margin: auto;
+	}
+
+	nav{
+		position: fixed;
+		top: 0px;
+		width: 65%;
+		height: 100%;
+		margin: auto;
+		z-index: 2;
+		background: rgba(0,0,0,0.9);
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul .selector{
+		display: block;
+		padding: 10px 0px !important;
+		font-size: 20px !important;
+		border:0px !important;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	nav ul a.selector:hover{
+		border-top: 0px;
+	}
+
+	#select{
+		background-color:#7FC8C0;
+	}
+
+	.op-menu{
+		display: block;
+		position: absolute;
+		top: 20px;
+		left: 30px;
+		cursor: pointer;
+	}
+
+	.text-banner, .tit-banner2{
+		/*border: 2px solid red;*/
+		font-size: 23px;
+		font-weight: bold;
+		padding: 2px;
+	}
+
+	.boton, .logo2{
+		display: none;
+	}
+
+	.tit-dp{
+		font-size: 20px;
+		color: rgba(0,0,0,0.5);
+		font-weight: bold;
+	}
+
+	.delete-padding{
+		padding: 0px !important;
+	}
+
+	.txt-dp, .tit2-banner2, .subtitn{
+		text-align: justify;
+	}
+
+	.tit2-banner2{
+		width: 100%;
+		padding: 5px 15px;
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.tit2-banner21{
+		text-align: center !important;
+	}
+	/************END DISEÑO INDEX***************/
+
+	/*************DISEÑO NOSOTROS******************/
+	.titn, .titn2{
+		font-size: 23px;
+		font-weight: 700;
+	}
+
+	.subtitn, .subtitn2{
+		padding: 0px 20px;
+	}
+
+	.subtitn2{
+		width: 100%;
+		text-align: justify;
+	}
+
+	.icono{
+		display: inline-block;
+	}
+
+	.icono i{
+		font-size: 45px;
+		vertical-align: middle;
+	}
+
+	.tit-dfi{
+		display: inline-block;
+		font-size: 20px;
+		padding: 2px 5px;
+	}
+
+	.centrado-tit{
+		text-align: center;
+	}
+
+	.tit-act{
+		display: inline-block;
+		font-size: 15px;
+		font-weight: bold;
+	}
+
+	.img-mlum{
+		width: 60%;
+		margin: auto;
+	}
+
+	.tit-h1M{
+		text-align: center;
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	.scp{
+		font-size: 16px;
+		text-align: center;
+		font-weight: bold;
+	}
+
+	.txt-scp{
+		text-align: justify;
+	}
+
+	.br{
+		text-align: center;
+	}
+
+	.btn-envia{
+		float: none !important; 
+	}
+	/************END DISEÑO NOSOTROS***************/
+
+	/*************DISEÑO SERVICIOS******************/
+	.tit-caap{
+		margin-top: 5px;
+		font-size: 22px;
+		font-weight: bold;
+		font-family: helvetica;
+		margin-bottom: 20px;
+	}
+
+	.del-br br{
+		display: none;
+	}
+
+	.serv, .serv2, .serv3, .serv4,
+	.serv5, .serv6, .serv7, .serv8{
+		border-radius: 10px;
+	}
+	/************END DISEÑO SERVICIOS***************/
+
+
+	/*************DISEÑO CONTACTO******************/
+	.text-bannerc{
+		display: none;
+	}
+
+	.header-title{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.btn-send{
+		width: 50%;
+		margin: auto;
+		float: none;
+		display: block;
+	}
+	/************END DISEÑO CONTACTO***************/
+
+	/*************DISEÑO FOOTER******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px;
+		font-weight: bold;
+		width: 95%;
+	}
+	/************END DISEÑO FOOTER***************/
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/*************DISEÑO INDEX******************/
+
+	.index, .fondo, .banner2, .fondo2, .nosotros, .bannern2, .fondon2,
+	.servicios, .contacto{
+		height: 100%;
+	}
+
+	.contenpuntos{
+		display: none;
+	}
+
+	.logo{
+		width: 30%;
+		float: none !important;
+		margin: auto;
+	}
+
+	nav{
+		position: fixed;
+		top: 0px;
+		width: 65%;
+		height: 100%;
+		margin: auto;
+		z-index: 2;
+		background: rgba(0,0,0,0.9);
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul .selector{
+		display: block;
+		padding: 10px 0px !important;
+		font-size: 20px !important;
+		border:0px !important;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	nav ul a.selector:hover{
+		border-top: 0px;
+	}
+
+	#select{
+		background-color:#7FC8C0;
+	}
+
+	.op-menu{
+		display: block;
+		position: absolute;
+		top: 20px;
+		left: 30px;
+		cursor: pointer;
+	}
+
+	.text-banner, .tit-banner2{
+		/*border: 2px solid red;*/
+		font-size: 23px;
+		font-weight: bold;
+		padding: 2px;
+	}
+
+	.boton, .logo2{
+		display: none;
+	}
+
+	.tit-dp{
+		font-size: 20px;
+		color: rgba(0,0,0,0.5);
+		font-weight: bold;
+	}
+
+	.delete-padding{
+		padding: 0px !important;
+	}
+
+	.txt-dp, .subtitn{
+		text-align: justify;
+	}
+
+	.tit2-banner2{
+		width: 100%;
+		padding: 5px 15px;
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.tit2-banner21{
+		text-align: center !important;
+	}
+	/************END DISEÑO INDEX***************/
+
+	/*************DISEÑO NOSOTROS******************/
+	.titn, .titn2{
+		font-size: 23px;
+		font-weight: 700;
+	}
+
+	.subtitn, .subtitn2{
+		padding: 0px 20px;
+	}
+
+	.subtitn2{
+		width: 100%;
+		text-align: justify;
+	}
+
+	.icono{
+		display: inline-block;
+	}
+
+	.icono i{
+		font-size: 45px;
+		vertical-align: middle;
+	}
+
+	.tit-dfi{
+		display: inline-block;
+		font-size: 20px;
+		padding: 2px 5px;
+	}
+
+	.centrado-tit{
+		text-align: center;
+	}
+
+	.tit-act{
+		display: inline-block;
+		font-size: 15px;
+		font-weight: bold;
+	}
+
+	.img-mlum{
+		width: 60%;
+		margin: auto;
+	}
+
+	.tit-h1M{
+		text-align: center;
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	.scp{
+		font-size: 16px;
+		text-align: center;
+		font-weight: bold;
+	}
+
+	.txt-scp{
+		text-align: justify;
+	}
+
+	.br{
+		text-align: center;
+	}
+
+	.btn-envia{
+		float: none !important; 
+	}
+	/************END DISEÑO NOSOTROS***************/
+
+	/*************DISEÑO SERVICIOS******************/
+	.tit-caap{
+		margin-top: 5px;
+		font-size: 22px;
+		font-weight: bold;
+		font-family: helvetica;
+		margin-bottom: 20px;
+	}
+
+	.del-br br{
+		display: none;
+	}
+
+	.serv, .serv2, .serv3, .serv4,
+	.serv5, .serv6, .serv7, .serv8{
+		border-radius: 10px;
+	}
+	/************END DISEÑO SERVICIOS***************/
+
+
+	/*************DISEÑO CONTACTO******************/
+	.text-bannerc{
+		display: none;
+	}
+
+	.header-title{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.btn-send{
+		width: 50%;
+		margin: auto;
+		float: none;
+		display: block;
+	}
+	/************END DISEÑO CONTACTO***************/
+
+	/*************DISEÑO FOOTER******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px;
+		font-weight: bold;
+		width: 95%;
+	}
+	/************END DISEÑO FOOTER***************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/*************DISEÑO INDEX******************/
+
+	.index, .fondo, .banner2, .fondo2, .nosotros, .bannern2, .fondon2,
+	.servicios, .contacto{
+		height: 100%;
+	}
+
+	.contenpuntos{
+		display: none;
+	}
+
+	.logo{
+		width: 20%;
+		float: none !important;
+		margin: auto;
+	}
+
+	nav{
+		position: fixed;
+		top: 0px;
+		width: 65%;
+		height: 100%;
+		margin: auto;
+		z-index: 2;
+		background: rgba(0,0,0,0.9);
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul .selector{
+		display: block;
+		padding: 10px 0px !important;
+		font-size: 20px !important;
+		border:0px !important;
+		color: #fff !important;
+		text-align: center;
+	}
+
+	nav ul a.selector:hover{
+		border-top: 0px;
+	}
+
+	#select{
+		background-color:#7FC8C0;
+	}
+
+	.op-menu{
+		display: block;
+		position: absolute;
+		top: 20px;
+		left: 30px;
+		cursor: pointer;
+	}
+
+	.text-banner, .tit-banner2{
+		/*border: 2px solid red;*/
+		font-size: 23px;
+		font-weight: bold;
+		padding: 2px;
+	}
+
+	.boton, .logo2{
+		display: none;
+	}
+
+	.tit-dp{
+		font-size: 20px;
+		color: rgba(0,0,0,0.5);
+		font-weight: bold;
+	}
+
+	.delete-padding{
+		padding: 0px !important;
+	}
+
+	.txt-dp, .subtitn{
+		text-align: justify;
+	}
+
+	.tit2-banner2{
+		width: 100%;
+		padding: 5px 15px;
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.tit2-banner21{
+		text-align: center !important;
+	}
+	/************END DISEÑO INDEX***************/
+
+	/*************DISEÑO NOSOTROS******************/
+	.titn, .titn2{
+		font-size: 26px;
+		font-weight: 700;
+	}
+
+	.subtitn, .subtitn2{
+		padding: 0px 20px;
+	}
+
+	.subtitn2{
+		width: 100%;
+		text-align: justify;
+	}
+
+	.subtitn{
+		text-align: center;
+	}
+
+	.icono{
+		display: inline-block;
+	}
+
+	.icono i{
+		font-size: 45px;
+		vertical-align: middle;
+	}
+
+	.tit-dfi{
+		display: inline-block;
+		font-size: 20px;
+		padding: 2px 5px;
+	}
+
+	.centrado-tit{
+		text-align: center;
+		/*font-size: 20px;*/
+	}
+
+	.tit-act{
+		display: inline-block;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.img-mlum{
+		width: 60%;
+		margin: auto;
+	}
+
+	.tit-h1M{
+		text-align: center;
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	.scp{
+		font-size: 16px;
+		text-align: center;
+		font-weight: bold;
+	}
+
+	.txt-scp{
+		text-align: justify;
+	}
+
+	.br{
+		text-align: center;
+	}
+
+	.btn-envia{
+		float: none !important; 
+	}
+	/************END DISEÑO NOSOTROS***************/
+
+	/*************DISEÑO SERVICIOS******************/
+	.tit-caap{
+		margin-top: 5px;
+		font-size: 22px;
+		font-weight: bold;
+		font-family: helvetica;
+		margin-bottom: 20px;
+	}
+
+	.del-br br{
+		display: none;
+	}
+
+	.serv, .serv2, .serv3, .serv4,
+	.serv5, .serv6, .serv7, .serv8{
+		border-radius: 10px;
+	}
+	/************END DISEÑO SERVICIOS***************/
+
+
+	/*************DISEÑO CONTACTO******************/
+	.text-bannerc{
+		display: none;
+	}
+
+	.header-title{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.btn-send{
+		width: 50%;
+		margin: auto;
+		float: none;
+		display: block;
+	}
+	/************END DISEÑO CONTACTO***************/
+
+	/*************DISEÑO FOOTER******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px;
+		font-weight: bold;
+		width: 95%;
+	}
+	/************END DISEÑO FOOTER***************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

@@ -26,6 +26,9 @@
           <a class="selector" href="vistas/contacto.php">CONTACTO</a>
         </ul>
       </nav>
+       <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
     </div>
 
     <p class="text-banner">Anuncios publicitarios <br> de todo tipo de material</p>
@@ -35,20 +38,20 @@
    </div>
  </header>
 
- <div class="section" style="padding: 8% 0%;">
+ <div class="section delete-padding" style="padding: 8% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-md-offset-2">
+          <div class="col-sm-6 col-md-6 col-lg-4 col-lg-offset-2">
             <!-- <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive"> -->
-            <h2 class="text-center">DISEÑO Y CALIDAD</h2>
-            <p class="text-center">Expertos Creativos en Diseño y fabricacion de Anuncios, Toldos, Malla Sombra, Letras 3D, con gran experiencia y calidad.No solo instalamos cualquier Anuncio e Iluminacion, si no que te ofrecemos el servicio integral para que tu publicidad luminosa e impresa este en perfecto estado.</p>
+            <h2 class="text-center tit-dp">DISEÑO Y CALIDAD</h2>
+            <p class="text-center txt-dp">Expertos Creativos en Diseño y fabricacion de Anuncios, Toldos, Malla Sombra, Letras 3D, con gran experiencia y calidad.No solo instalamos cualquier Anuncio e Iluminacion, si no que te ofrecemos el servicio integral para que tu publicidad luminosa e impresa este en perfecto estado.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-6 col-lg-4">
             <!-- <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive"> -->
-            <h2 class="text-center">PUBLICIDAD EXTERIOR</h2>
-            <p class="text-center">Es importante que usted piense en renovar o mejorar la imagen exterior de su negocio, porque este representa un porcentaje alto para aumentar sus ventas.</p>
+            <h2 class="text-center tit-dp">PUBLICIDAD EXTERIOR</h2>
+            <p class="text-center txt-dp">Es importante que usted piense en renovar o mejorar la imagen exterior de su negocio, porque este representa un porcentaje alto para aumentar sus ventas.</p>
           </div>
         </div>
       </div>
@@ -78,5 +81,6 @@ en los tamaños y con los materiales que requiera.</p>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/slide.js"></script>
+<script src="js/menu.js"></script>
 </body>
 </html>

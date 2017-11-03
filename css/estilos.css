@@ -47,6 +47,11 @@
   /*border: 2px red solid;*/
 
 }
+
+.op-menu{
+  display: none;
+}
+
 nav{
   margin-right: 8%;
   margin-top: 1.5%;
