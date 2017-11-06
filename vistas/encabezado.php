@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="qukwjNxgpr6gAmAVaM9q0MuQ1PavAdxW4np-KSqH6AM" />
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>MLUM SOLUCIONES CREATIVAS Y PUBLICITARIAS</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
